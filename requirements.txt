@@ -1,0 +1,8 @@
+numpy
+opencv-contrib-python
+tensorflow==1.14.1
+tflearn
+keras
+Pillow
+tf-nightly
+matplotlib
