@@ -1,6 +1,6 @@
 numpy
 opencv-contrib-python
-tensorflow==1.14.1
+tensorflow==2.6.4
 tflearn
 keras
 Pillow
